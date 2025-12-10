@@ -50,3 +50,4 @@ def step_impl(context):
         #
         # ADD YOUR CODE HERE TO CREATE PRODUCTS VIA THE REST API
         #
+        
